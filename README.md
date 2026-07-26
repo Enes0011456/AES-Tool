@@ -13,12 +13,14 @@ Kolay Kullanım: Sade fonksiyon yapıları sayesinde projelerinize minimum kod s
 📦 Kurulum
 Projeyi klonladıktan sonra gerekli bağımlılıkları yükleyin:
 
-Bash
+Bash:
+
 git clone https://github.com/kullaniciadi/proje-adi.git
+
 cd proje-adi
+
 pip install -r requirements.txt
-💻 Kullanım
-Modülü projenize dahil etmek ve temel şifreleme işlemlerini gerçekleştirmek için örnek kullanım:
+
 
 Sifreleme de neler yapabilir peki : 
 AES-256-CBC/GCM + ChaCha20 + XOR
