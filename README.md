@@ -15,7 +15,7 @@ Projeyi klonladıktan sonra gerekli bağımlılıkları yükleyin:
 
 Bash:
 
-git clone https://github.com/kullaniciadi/proje-adi.git
+git clone https://github.com/Enes0011456/AES-Tool
 
 cd proje-adi
 
