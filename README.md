@@ -17,7 +17,7 @@ Bash:
 
 git clone https://github.com/Enes0011456/AES-Tool
 
-cd proje-adi
+cd AES-Tool
 
 pip install -r requirements.txt
 
